@@ -8,4 +8,3 @@ finally I secured the ddns.net with lets encrypt by running the command sudo cer
 
 
 ![Image](https://github.com/user-attachments/assets/d7a4a78d-1177-432c-9f74-838ab76e080d)
-![Image](https://github.com/user-attachments/assets/44a07ddd-37a9-41ba-afaf-f350c10d273e)
