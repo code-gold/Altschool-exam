@@ -7,6 +7,9 @@ the project is hosted on https:// khadijat.ddns.net
 finally I secured the ddns.net with lets encrypt by running the command sudo certbox --nginx -d khadijat.ddns.net
 
 
+![Image](https://github.com/user-attachments/assets/3a95c7ac-d1a2-476a-8642-92eb1fe575b0)
+
+
 ![Image](https://github.com/user-attachments/assets/d7a4a78d-1177-432c-9f74-838ab76e080d)
 
 
