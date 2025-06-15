@@ -13,4 +13,4 @@ finally I secured the ddns.net with lets encrypt by running the command sudo cer
 ![Image](https://github.com/user-attachments/assets/d7a4a78d-1177-432c-9f74-838ab76e080d)
 
 
-![Image](https://github.com/user-attachments/assets/f39dc1c6-b097-4209-9338-1556d13e4867)
+
